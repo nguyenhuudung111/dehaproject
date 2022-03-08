@@ -46,7 +46,7 @@
 		<div class="nav">
 			<ul>
 				<li><a href=""><i class="fas fa-border-all"></i>Tổng Quan</a></li>
-				<li><a href="${base }/admin/category"><i class="fas fa-list"></i>Quản Lý Sản Phẩm</a></li>
+				<li><a href="${base }/admin/list?&page=1"><i class="fas fa-list"></i>Quản Lý Sản Phẩm</a></li>
 				<li><a href="${base }/admin/addproduct"><i class="fas fa-user-friends"></i>Thêm Sản Phẩm</a></li>
 				<li><a href="${base }/admin/list?&page=1"><i class="fas fa-receipt"></i>Đơn Đặt Hàng</a></li>
 				<li><a href=""><i class="fas fa-comments"></i>Bình Luận Của Khách</a></li>
